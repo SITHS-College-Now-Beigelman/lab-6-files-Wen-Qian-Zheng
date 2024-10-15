@@ -17,7 +17,6 @@ int main () {
     inFile.open("inData.txt");
     outFile.open("outData.txt");
 
-
     inFile >> integer1 >> integer2 >> character1 >> string1;
     outFile << integer1 + integer2 << "\n" << int(character1) + 1 << "\n" << string1;
 
