@@ -1,5 +1,4 @@
-/* Wen Qian Zheng
-Jefferson Zheng
+/* Wen Qian Zheng, Jefferson Zheng
 Lecture 5
 October 7th, 2024*/
 
